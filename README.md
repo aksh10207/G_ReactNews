@@ -1,5 +1,3 @@
-
-
 A cool, responsive news app fetching live data from the NewsAPI to display top headlines and trending news across the world.
 
 🚀 Features
@@ -75,4 +73,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *   Thanks to [NewsAPI](https://newsapi.org/) for providing the news data.
 *   Special thanks to all contributors.
->>>>>>> a77a1ca (Initial commit)
